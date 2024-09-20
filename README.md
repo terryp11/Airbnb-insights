@@ -8,7 +8,7 @@ This project focuses on analyzing Airbnb listings data in the Boston area to unc
 - Tools used: 
     - MySQL
     - Looker Studio
-    - Python
+    - Python: Pandas, SQLAlchemy, Kaggle
 
 - Focus Areas: 
     - Revenue Trends
